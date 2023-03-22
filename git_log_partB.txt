@@ -1,0 +1,104 @@
+commit 905206eec14ad7c178dc6030643d12ce9ef55511
+Author: Lagishetti Varshith <varshith.lagishetti03@gmail.com>
+Date:   Tue Mar 21 19:01:32 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 416cbf1..f0f1c09 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,3 @@
+ Lagishetti Varshith Vars
+-KFC RRR
+\ No newline at end of file
++KFC RRR
++Blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index cffdb20..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Expected Graduation Year:2025 Job Title:Developer
+\ No newline at end of file
+
+commit 5e16668e400391ea80f59ee76c9670f07fa21282
+Author: Lagishetti Varshith <varshith.lagishetti03@gmail.com>
+Date:   Tue Mar 21 18:45:12 2023 +0530
+
+    file2.txt has been staged and it is included with Expected year and job title
+
+diff --git a/file2.txt b/file2.txt
+index c4ef9b0..cffdb20 100644
+--- a/file2.txt
++++ b/file2.txt
+@@ -1 +1 @@
+-Expected Graduation year:2025 Job title:Developer
+\ No newline at end of file
++Expected Graduation Year:2025 Job Title:Developer
+\ No newline at end of file
+
+commit f1e1d737640fcade4e3ab3c7830b7a1dce74a55d
+Author: Lagishetti Varshith <varshith.lagishetti03@gmail.com>
+Date:   Tue Mar 21 18:42:36 2023 +0530
+
+    file2.txt has been staged and it is included with Expected year and job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..c4ef9b0
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++Expected Graduation year:2025 Job title:Developer
+\ No newline at end of file
+
+commit 732593851b92353595d3dbb492179f914dae1b18
+Author: Lagishetti Varshith <varshith.lagishetti03@gmail.com>
+Date:   Tue Mar 21 15:29:13 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 4bf5732..416cbf1 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Lagishetti Varshith Vars
+\ No newline at end of file
++Lagishetti Varshith Vars
++KFC RRR
+\ No newline at end of file
+
+commit 37a13f5996695a05dddd1879083b58010b736b79
+Author: Lagishetti Varshith <varshith.lagishetti03@gmail.com>
+Date:   Tue Mar 21 15:19:17 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 3f94f06..4bf5732 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Lagishetti Varshith 27603
+\ No newline at end of file
++Lagishetti Varshith Vars
+\ No newline at end of file
+
+commit 500982d33fc4b57330a5564c5080214c1002b087
+Author: Lagishetti Varshith <varshith.lagishetti03@gmail.com>
+Date:   Tue Mar 21 14:46:40 2023 +0530
+
+    Commiting a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..3f94f06
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Lagishetti Varshith 27603
+\ No newline at end of file
